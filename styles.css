@@ -607,7 +607,7 @@ footer .links a p:hover{
     padding-left: 100%;
   }
   footer{
-    padding: 50px auto;
+    padding: 50px 10px;
   }
   footer h1{
     font-size: 40px;
@@ -629,7 +629,7 @@ footer .links a p:hover{
     padding: 5px;
   }
   .hero p{
-    padding: 0;
+    padding: 5px;
     border: none;
   }
 }
