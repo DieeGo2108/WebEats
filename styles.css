@@ -632,7 +632,7 @@ footer .links a p:hover{
     padding: 5px;
   }
   .hero p{
-    padding: 5px;
+    padding: 0 30px;
     border: none;
   }
 }
