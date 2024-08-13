@@ -596,6 +596,9 @@ footer .links a p:hover{
 }section {
   margin: 200px auto;
   position: relative;}
+  :root{
+    --tertiary-color=black;
+  }
 
   }
   
